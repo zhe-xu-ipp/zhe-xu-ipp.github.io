@@ -6,21 +6,35 @@
     <description>Mixed Reality - Zhe XU</description>
     <generator>Hugo 0.139.0 &amp; FixIt v0.3.15</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Nov 2024 14:27:34 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 22:32:53 +0100</lastBuildDate>
     <atom:link href="https://zhe-xu-ipp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Week3: Roll a ball &amp; 3 Selections</title>
-      <link>https://zhe-xu-ipp.github.io/posts/week3/</link>
-      <pubDate>Thu, 28 Nov 2024 14:27:34 +0100</pubDate>
-      <guid>https://zhe-xu-ipp.github.io/posts/week3/</guid>
-      <description>Week3: Roll a ball &amp; 3 Selections</description>
+      <title>Lab5: Selection Pitch</title>
+      <link>https://zhe-xu-ipp.github.io/posts/lab5/</link>
+      <pubDate>Sat, 28 Dec 2024 22:32:53 +0100</pubDate>
+      <guid>https://zhe-xu-ipp.github.io/posts/lab5/</guid>
+      <description>&lt;p&gt;摘要&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Week2: Unity Roll-A-Ball</title>
-      <link>https://zhe-xu-ipp.github.io/posts/week2/</link>
+      <title>Lab4: Roll-A-Ball in VR</title>
+      <link>https://zhe-xu-ipp.github.io/posts/lab4/</link>
+      <pubDate>Sat, 28 Dec 2024 21:54:01 +0100</pubDate>
+      <guid>https://zhe-xu-ipp.github.io/posts/lab4/</guid>
+      <description>&lt;p&gt;adapt roll-a-ball into VR&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lab3: Roll a ball &amp; 3 Selections</title>
+      <link>https://zhe-xu-ipp.github.io/posts/lab3/</link>
+      <pubDate>Thu, 28 Nov 2024 14:27:34 +0100</pubDate>
+      <guid>https://zhe-xu-ipp.github.io/posts/lab3/</guid>
+      <description>Lab3: Roll a ball &amp; 3 Selections</description>
+    </item>
+    <item>
+      <title>Lab1 &amp; Lab2: Setup Blog &amp; Unity</title>
+      <link>https://zhe-xu-ipp.github.io/posts/lab12/</link>
       <pubDate>Sun, 24 Nov 2024 18:29:06 +0100</pubDate>
-      <guid>https://zhe-xu-ipp.github.io/posts/week2/</guid>
-      <description>&lt;p&gt;Lab HW1, 2, and 3.&lt;/p&gt;</description>
+      <guid>https://zhe-xu-ipp.github.io/posts/lab12/</guid>
+      <description>&lt;p&gt;Lab1 &amp;amp; 2.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
